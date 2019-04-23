@@ -1,0 +1,31 @@
+*Aplicativo que calcula la fuerza y el trabajo requerido en una maquinaria para mover diferentes paquetes
+*Parámetros de entrada
+ -Coeficiente de rozamiento
+ -Angulo de la pendiente por el cual se moverá el bloque (pendiente)
+ -Peso del bloque en kilogramos
+ -aceleración máxima, ya que un exceso de aceleración podría causar daños o incluso incineración
+
+*Clientes objetivos
+ -Empresas que necesitan mover grandes bloques de algún elemento (como chatarrerias) pero necesitan alquilar maquinaria externa.
+empresas
+
+Aplicativo... para mover paquetes
+
+*Problemática
+ -Actualmente están alquilando maquinarias de grandes proporciones pero usualmente los costos varían de acuerdo al tamaño de la maquinaria; algunas veces alquilan maquinarias muy pequeñas y por lo cual no pueden culminar el trabajo; por otro lado, algunas veces alquilan maquinarias que son demasiado grandes, esto provoca que el costo se eleve innecesariamente.
+
+
+Los creadores del aplicativo buscaran asociarse con
+
+El canvas es un plan de negocio; es para que sepan que ustedes pueden crear empresa y para eso identificar su mercado, como mantienen a sus clientes; si yo estoy creando un aplicativo como mantengo a mi cliente; brindo capacitacion, mantengo actualizaciones del producto
+
+Como llego al cliente; que se puede investigar en cuanto al producto; no puedo sembrar pinos cada ciertos metros, debo investigar algo parecido.
+Investigar sobre la actividad clave, temas relacionados al producto.
+
+Actividad clave - Actualizarse en tendencias tecnologicas, capacitarte;
+Aliado - son las empresas de software, si no hay software no hay producto.
+Actividad clave - Desarrollar software
+Yo debo actualizarme en informacion sobre mi negocio; en este caso debo 
+
+
+Socios estrategicos - las empresas de desarrollo, empresas de lenguaje de programacion.
